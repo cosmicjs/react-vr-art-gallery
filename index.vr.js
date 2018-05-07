@@ -23,15 +23,14 @@ export default class WelcomeToVR extends React.Component {
       const cosmic_objects = data.objects
       const paintings = _.filter(cosmic_objects, { type_slug: 'paintings' })
       const globals = _.keyBy(_.filter(cosmic_objects, { type_slug: 'globals' }), 'slug')
-      console.log(globals.realm.metadata.pano)
       this.setState({ 
         data: {
           globals,
           paintings
         }
       })
-    }).catch(data => {
-      throw(err)
+    }).catch(err => {
+      throw err;
     })
   }
   render() {
