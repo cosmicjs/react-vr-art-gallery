@@ -1,7 +1,7 @@
 # React VR Art Gallery
 ![React VR Art Gallery](https://cosmic-s3.imgix.net/8918a6e0-5493-11e8-8abf-afb1f600df25-react-vr-art-gallery.png?w=2000)
 
-A [React VR](https://facebook.github.io/react-360/) app with content managed by the [Cosmic JS API](https://cosmicjs.com).
+A [React VR](https://facebook.github.io/react-360/) app with content powered by the [Cosmic JS API](https://cosmicjs.com).
 
 ## Installation
 ```
