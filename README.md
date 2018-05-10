@@ -13,7 +13,7 @@ npm start
 ```
 This connects to a demo Bucket.  To connect to your own Bucket follow the steps below:
 
-### Import the Bucket
+### Connect to your Bucket
 1. [Go to Cosmic JS](https://cosmicjs.com) and import the included `bucket.json` file in this repo by going to Your Bucket > Settings > Import / Export.
 2. Go into the `index.vr.js` file, find the config and set it to your Bucket slug.
 3. Start the app connected to your Bucket:
