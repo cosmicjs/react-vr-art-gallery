@@ -15,6 +15,6 @@ npm start
 1. [Go to Cosmic JS](https://cosmicjs.com) and import the included `bucket.json` file in this repo by going to Your Bucket > Settings > Import / Export.
 2. Start the app connected to your Bucket:
 ```
-COSMIC_BUCKET=your-bucket-slug npm start
+npm start
 ```
-3. Play in VR in the browser at http://localhost:8081/vr
+3. Play with the VR experience in the browser at http://localhost:8081/vr
