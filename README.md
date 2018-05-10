@@ -16,4 +16,4 @@ npm start
 ```
 COSMIC_BUCKET=your-bucket-slug npm start
 ```
-3. Play in VR in the browser at http://localhost:/8081/vr
+3. Play in VR in the browser at http://localhost:8081/vr
