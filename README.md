@@ -3,6 +3,10 @@
 
 A [React VR](https://facebook.github.io/react-360/) app with content powered by the [Cosmic JS API](https://cosmicjs.com).
 
+This app was demoed at the React Dallas meetup on May 8, 2018.
+
+[Watch Demo Video](https://www.youtube.com/watch?v=IcJ5hkReEko&feature=youtu.be&t=31m25s)
+
 ## Installation
 ```
 git clone https://github.com/cosmicjs/react-vr-art-gallery
