@@ -14,7 +14,7 @@ const api = Cosmic()
 
 // CONFIG
 const bucket = api.bucket({
-  slug: 'react-js-dallas' // Set to your Bucket slug
+  slug: 'art' // Set to your Bucket slug
 })
 
 export default class WelcomeToVR extends React.Component {
