@@ -1,6 +1,6 @@
 # React VR Art Gallery
 
-A React VR app powered by content from the Cosmic JS API.
+A React VR app powered by the Cosmic JS API.
 
 ## Installation
 ### On your local machine
