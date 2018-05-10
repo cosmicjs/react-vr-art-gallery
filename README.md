@@ -5,7 +5,7 @@ A React VR app powered by the Cosmic JS API.
 ## Installation
 ### On your local machine
 ```
-git clone https://github.com/tonyspiro/react-vr-art-gallery
+git clone https://github.com/cosmicjs/react-vr-art-gallery
 cd react-vr-art-gallery
 npm i
 npm start
