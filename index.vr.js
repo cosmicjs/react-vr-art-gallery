@@ -11,8 +11,10 @@ import {
 import _ from 'lodash'
 import Cosmic from 'cosmicjs'
 const api = Cosmic()
+
+// CONFIG
 const bucket = api.bucket({
-  slug: 'art'
+  slug: 'react-js-dallas' // Set to your Bucket slug
 })
 
 export default class WelcomeToVR extends React.Component {
