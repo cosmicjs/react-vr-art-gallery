@@ -4,7 +4,6 @@
 A [React VR](https://facebook.github.io/react-360/) app with content managed by the [Cosmic JS API](https://cosmicjs.com).
 
 ## Installation
-### On your local machine
 ```
 git clone https://github.com/cosmicjs/react-vr-art-gallery
 cd react-vr-art-gallery
