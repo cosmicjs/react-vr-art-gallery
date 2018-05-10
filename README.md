@@ -10,7 +10,7 @@ cd react-vr-art-gallery
 npm i
 npm start
 ```
-### On Cosmic JS
+### Import the Bucket
 1. Go to Cosmic JS and import the included `bucket.json` file in this repo by going to Your Bucket > Settings > Import / Export.
 2. Start the app connected to your Bucket:
 ```
